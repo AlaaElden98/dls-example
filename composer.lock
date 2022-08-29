@@ -4,8 +4,45 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c61ff82cbf0142a401a48a8161e1595a",
+    "content-hash": "4837cef6a886bdcf5f56cb9655133bde",
     "packages": [
+        {
+            "name": "alaa2/dls",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AlaaElden98/newDls.git",
+                "reference": "17cac8e680e9b9b35085f66ea6062bc9b1659750"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AlaaElden98/newDls/zipball/17cac8e680e9b9b35085f66ea6062bc9b1659750",
+                "reference": "17cac8e680e9b9b35085f66ea6062bc9b1659750",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Alaa\\Dls\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alaa Abdelfattah",
+                    "email": "a.abdelfattah@yodawy.com"
+                }
+            ],
+            "description": "Simple package for test",
+            "support": {
+                "issues": "https://github.com/AlaaElden98/newDls/issues",
+                "source": "https://github.com/AlaaElden98/newDls/tree/1.1.0"
+            },
+            "time": "2022-08-29T13:43:53+00:00"
+        },
         {
             "name": "asm89/stack-cors",
             "version": "v2.1.1",
