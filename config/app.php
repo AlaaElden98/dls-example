@@ -165,7 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        \Alaa\Dls\Providers\ViewsProvider::class,
         /*
          * Application Service Providers...
          */
