@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "alaa2/dls",
-            "version": "1.1.0",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/AlaaElden98/newDls.git",
-                "reference": "17cac8e680e9b9b35085f66ea6062bc9b1659750"
+                "reference": "eae23e00850978813d7a427b5bd136a977972b33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/AlaaElden98/newDls/zipball/17cac8e680e9b9b35085f66ea6062bc9b1659750",
-                "reference": "17cac8e680e9b9b35085f66ea6062bc9b1659750",
+                "url": "https://api.github.com/repos/AlaaElden98/newDls/zipball/eae23e00850978813d7a427b5bd136a977972b33",
+                "reference": "eae23e00850978813d7a427b5bd136a977972b33",
                 "shasum": ""
             },
             "type": "library",
@@ -39,9 +39,9 @@
             "description": "Simple package for test",
             "support": {
                 "issues": "https://github.com/AlaaElden98/newDls/issues",
-                "source": "https://github.com/AlaaElden98/newDls/tree/1.1.0"
+                "source": "https://github.com/AlaaElden98/newDls/tree/1.2.0"
             },
-            "time": "2022-08-29T13:43:53+00:00"
+            "time": "2022-08-29T14:12:30+00:00"
         },
         {
             "name": "asm89/stack-cors",
